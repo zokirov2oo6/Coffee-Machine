@@ -1,4 +1,4 @@
-# Coffee Machine Simulator (OOP)  
+# Coffee Machine 
 
 A fully object-oriented coffee machine simulator written in Python, based on the famous "Day 16" project from the **100 Days of Code** course.
 
